@@ -9,4 +9,3 @@ The goal of this app is to be a site where users can keep track of their monthly
 [] Oauth with Twitter
 [] Oauth with Gmail
 [] Session Tracking
-[]
