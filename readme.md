@@ -5,7 +5,7 @@ The goal of this app is to be a site where users can keep track of their monthly
 
 
 ## Features
-[] Oauth with Facebook
-[] Oauth with Twitter
-[] Oauth with Gmail
-[] Session Tracking
+- [] Oauth with Facebook
+- [] Oauth with Twitter
+- [] Oauth with Gmail
+- [] Session Tracking
